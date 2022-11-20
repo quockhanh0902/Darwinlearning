@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../w3-band"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Chapter1"
+	}
+}
